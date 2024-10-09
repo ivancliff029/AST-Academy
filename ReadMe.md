@@ -20,7 +20,7 @@ The title is centered and styled.
 
 
 Question 3
-Project: Iframes
+Project: Inputs
 Create an HTML form with a text input field where users can enter their name, and a submit button to send the form. Use CSS to style the input and button as follows:
 
 The input field should have padding, a border, and placeholder text.
