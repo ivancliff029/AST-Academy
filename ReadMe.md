@@ -17,3 +17,12 @@ The webpage should look something like this:
 A centered iframe that shows an external page.
 The iframe has a border, padding, and some spacing from the title.
 The title is centered and styled.
+
+
+Question 3
+Project: Iframes
+Create an HTML form with a text input field where users can enter their name, and a submit button to send the form. Use CSS to style the input and button as follows:
+
+The input field should have padding, a border, and placeholder text.
+The submit button should have a background color, padding, and change color when hovered over.
+Center the form on the page with a clean and modern design
