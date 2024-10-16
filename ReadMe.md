@@ -26,3 +26,16 @@ Create an HTML form with a text input field where users can enter their name, an
 The input field should have padding, a border, and placeholder text.
 The submit button should have a background color, padding, and change color when hovered over.
 Center the form on the page with a clean and modern design
+
+Question 4
+
+Create a div element with the class box and style it as follows:
+
+Add a solid border of 2px thickness and #000000 (black) color.
+Add a margin of 20px on all sides of the div.
+Add padding of 15px inside the div so that the content inside does not touch the border.
+Include text inside the div that reads: "This is a content box."
+
+Requirements:
+Write the necessary HTML and CSS code.
+Ensure the padding is inside the border and the margin creates space outside the border.
