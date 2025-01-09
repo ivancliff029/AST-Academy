@@ -39,3 +39,13 @@ Include text inside the div that reads: "This is a content box."
 Requirements:
 Write the necessary HTML and CSS code.
 Ensure the padding is inside the border and the margin creates space outside the border.
+
+9/01/2024
+Project Overview: Personal Portfolio Website
+Create a personal portfolio website that showcases:
+
+A homepage with an introduction.
+A portfolio/gallery page for projects.
+A contact page with a form.
+Responsive design for different devices.
+This project will cover almost all topics from HTML and CSS.
